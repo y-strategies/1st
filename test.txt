@@ -1,2 +1,6 @@
 Hello git!
 Edit test!
+
+git add python_1st.ipynb 
+git commit -m "python training"
+git push origin master
